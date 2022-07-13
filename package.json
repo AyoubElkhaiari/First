@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "1.1.2",
+  "description": "just learning",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyoubElkhaiari/First.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyoubElkhaiari/First/issues"
+  },
+  "homepage": "https://github.com/AyoubElkhaiari/First#readme"
+}
